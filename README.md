@@ -1,3 +1,5 @@
-# ----Dream
+# ----Dream----
 
-minecraft hacking client, enjoy.
+Dream minecraft ghost client.
+
+
